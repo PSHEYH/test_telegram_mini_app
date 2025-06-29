@@ -1,16 +1,22 @@
-# test_telegram_mini_app
+## 🚀 Getting Started
 
-A new Flutter project.
+### 1. Clone the repository
 
-## Getting Started
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
 
-This project is a starting point for a Flutter application.
+### 2.  Install dependencies
 
-A few resources to get you started if this is your first Flutter project:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 3. Start project
+
+flutter run
+
+Or on specific device
+
+flutter run -d android       # for Android
+flutter run -d ios  # for IOS
+
+This project is compatible with Flutter 3.10+.
